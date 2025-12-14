@@ -1,0 +1,15 @@
+C:\Users\German\Desktop\9\Lab_9\Lab_9\bin\Debug\Lab_9.exe.config
+C:\Users\German\Desktop\9\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+C:\Users\German\Desktop\9\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.AssemblyReference.cache
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\MainWindow.baml
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\MainWindow.g.cs
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\App.g.cs
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9_MarkupCompile.cache
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.g.resources
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.Properties.Resources.resources
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.pdb
+C:\Users\German\Desktop\9\Lab_9\Lab_9\obj\Debug\Lab_9.exe.config
