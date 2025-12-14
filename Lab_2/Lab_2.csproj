@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\graph.jpg" />
+    <None Remove="график.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\graph.jpg" />
+    <Resource Include="график.jpg" />
+  </ItemGroup>
+
+</Project>
